@@ -10,8 +10,7 @@ layout = dbc.Container(
         dbc.Row(
             dbc.Col(
                 [
-                    html.H1("Welcome to the Dashboard", className="text-center mt-4 mb-4"),
-                    html.P("This is the home page.", className="text-center mb-4"),
+                    html.H1("Welcome to the World's Data", className="text-center mt-4 mb-4")
                 ],
                 width=12,
             ),
